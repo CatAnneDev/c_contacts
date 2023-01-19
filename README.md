@@ -1,5 +1,5 @@
 # c_contacts
-Practice of structs, malloc(), and free() in C language. October 2021.
+Practice of structs, malloc(), and free() in C language. 28 October 2021.
 * C language
 * Debian GNU Linux
 * run command to test: ./contacts ../contacts.txt
