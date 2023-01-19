@@ -2,6 +2,5 @@
 Practice of structs, malloc(), and free() in C language.
 * C language
 * Debian GNU Linux
-* ./contacts filename
-* ./contacts ../contacts.txt
-* filename should be the file that has contacts properly formatted like contacts.txt
+* run command to test: ./contacts ../contacts.txt
+* contacts.txt has the contacts properly formatted for reference.
